@@ -1,0 +1,7 @@
+body {
+    background-image: url('static/france_flag.jpg');
+    background-size: cover; /* Optional, this scales the image to cover the entire element */
+    background-repeat: no-repeat; /* Optional, this prevents the image from repeating */
+    background-attachment: fixed; /* Optional, this makes the background fixed while scrolling */
+  }
+  
