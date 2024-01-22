@@ -5,3 +5,6 @@ body {
     background-attachment: fixed; /* Optional, this makes the background fixed while scrolling */
   }
   
+  h1 {
+    color: red;
+  }
